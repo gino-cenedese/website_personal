@@ -1,5 +1,8 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: Fulcrum-834703.jpg
 ---
 
 About this site
