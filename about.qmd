@@ -2,7 +2,7 @@
 title: "About"
 about:
   template: jolla
-  image: Fulcrum-834703.jpg
+  image: figures/Fulcrum-834703.jpg
 ---
 
 This is a test.
