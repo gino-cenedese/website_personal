@@ -1,5 +1,19 @@
 ---
 title: "Gino Cenedese"
+about:
+  template: jolla
+  image: figures/Fulcrum-834703.jpg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Mail
+      href: "mailto:gino.cenedese@fulcrumasset.com"
+    - icon: github
+      text: Github
+      href: https://github.com/gino-cenedese
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ginocenedese/
 ---
 
-This is a test again.
+Welcome to my test website. My current personal website is <https://sites.google.com/site/ginocenedese/>
