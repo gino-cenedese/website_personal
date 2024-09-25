@@ -3,6 +3,7 @@ title: "Gino Cenedese"
 about:
   template: jolla
   image: figures/Fulcrum-834703.jpg
+  image-width: 25em
   image-shape: rounded
   links:
     - icon: envelope
