@@ -14,6 +14,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ginocenedese/
+    - icon: twitter-x
+      href: https://x.com/GinoCenedese
 ---
 
 Welcome to my test website. My current personal website is <https://sites.google.com/site/ginocenedese/>
