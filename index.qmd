@@ -7,13 +7,10 @@ about:
   image-shape: rounded
   links:
     - icon: envelope
-      text: Mail
       href: "mailto:gino.cenedese@fulcrumasset.com"
     - icon: github
-      text: Github
       href: https://github.com/gino-cenedese
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/ginocenedese/
     - icon: twitter-x
       href: https://x.com/GinoCenedese
